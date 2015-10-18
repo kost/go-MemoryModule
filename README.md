@@ -61,6 +61,6 @@ Can't open DLL file "my.dll"
 
 Adjust the source to you needs and good luck!
 
-Note that you should properly reimplement reintrepret_cast for mingw. 
+Note that you should properly reimplement reintrepret_cast for mingw (check loadl.h as I have just quickly made it to compile!). 
 
 
